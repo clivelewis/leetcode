@@ -24,6 +24,7 @@ public class LeetCode200 {
 				{'0', '0', '0', '0', '0'}};
 
 		TestExecutor.execute(numIslands(grid), 1);
+		System.out.println("Success!");
 	}
 
 	public static int numIslands(char[][] grid) {
